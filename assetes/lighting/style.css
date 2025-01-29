@@ -18,7 +18,7 @@ body {
 }
 h2 {
     text-align: center;
-    color: #4CAF50;
+    color: #ff9800;
 }
 label {
     font-weight: bold;
@@ -36,7 +36,7 @@ textarea {
     height: 80px;
 }
 .submit-btn {
-    background: #4CAF50;
+    background: #ff9800;
     color: white;
     border: none;
     padding: 10px;
@@ -47,5 +47,5 @@ textarea {
     font-size: 16px;
 }
 .submit-btn:hover {
-    background: #45a049;
+    background: #e68900;
 }
